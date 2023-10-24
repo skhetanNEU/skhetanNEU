@@ -1,6 +1,6 @@
 ### Hi there, I'm Satvik 🧑🏻‍💻
 - 👨🏻‍🎓 I'm currently pursuing masters in computer science at Northeastern University, Boston
-- 🏢 I have worked as a Staff Software Engineer at National Instruments R&D for 4.5 years
+- 🏢 I have worked as a Staff Software Engineer at National Instruments R&D for 4.5 years along with internships at Motorola Solutions and Wasabi Technologies in 2023 during my Masters's degree
 - 📝 I am looking to learn from and contribute to Open Source projects
 - 👀 Fun Fact: Learnt to play guitar 🎸 through internet (It gets easy after a point. You just have to start 😬)
 
